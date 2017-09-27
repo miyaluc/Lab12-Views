@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\bin\Debug\netcoreapp2.0\lab12miya.deps.json
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\bin\Debug\netcoreapp2.0\lab12miya.runtimeconfig.json
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\bin\Debug\netcoreapp2.0\lab12miya.runtimeconfig.dev.json
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\bin\Debug\netcoreapp2.0\lab12miya.dll
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\obj\Debug\netcoreapp2.0\lab12miya.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\obj\Debug\netcoreapp2.0\lab12miya.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\obj\Debug\netcoreapp2.0\lab12miya.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\obj\Debug\netcoreapp2.0\lab12miya.AssemblyInfo.cs
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\bin\Debug\netcoreapp2.0\lab12miya.pdb
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\obj\Debug\netcoreapp2.0\lab12miya.dll
+C:\Users\shami\source\repos\Lab12-Views\lab12miya\lab12miya\obj\Debug\netcoreapp2.0\lab12miya.pdb
