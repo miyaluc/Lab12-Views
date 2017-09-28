@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 namespace lab12miya.Controllers
 {
     [Route("Error")]
-    public class ErrorPageController
+    public class ErrorPageController : Controller
     {
-        public string Error()
+        public ViewResult Error()
         {
-            return "Oops. Something's not right....";
+            string errorMessage = "Oops. Something's not right....";
+            ViewData["msg"] = errorMessage;
+            return View();
         }
     }
 }

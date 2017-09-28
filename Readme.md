@@ -25,11 +25,11 @@
 
 
 ## ReadMe
-- Your readme should include the following information:
-	- How long did it take you to complete this assignment?
-	- What did you struggle with? Why? How did you solve?
-	- What did you learn during this assignment?
-    - What resources did you utilize for this assingment?
+- Your readme should include the following information: 
+	- How long did it take you to complete this assignment? 2 or 3 hours
+	- What did you struggle with? Why? How did you solve? I struggled with passing data to a view in more than one way on the same view
+	- What did you learn during this assignment? I learned that I still need practice with finding the route for my views.
+    - What resources did you utilize for this assingment? the class demo and youtube videos
 
 ## Stretch (+2)
    - Add a Layout to your view

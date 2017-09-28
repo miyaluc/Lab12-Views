@@ -1,19 +1,46 @@
-﻿using System;
+﻿using lab12miya.ViewModels;
+using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace lab12miya.Controllers
 {
-    public class HomeController
+    public class HomeController : Controller
     {
-        public string Index()
+        public ViewResult Index()
         {
-            return "You are at the home page.";
+            Student student = new Student();
+            student.Name = "Raphael";
+            student.Class = "Algebra";
+            student.Grade = 82;
+
+            Student student2 = new Student
+            {
+                Name = "Amara",
+                Class = "Chemistry",
+                Grade = 90
+            };
+
+            List<Student> students = new List<Student>();
+
+            students.Add(new Student { Name = "Saoirse", Class = "Knitting", Grade = 100});
+            students.Add(new Student { Name = "Aisling", Class = "Kickboxing", Grade = 98});
+
+            ViewData["students"] = students;
+            return View(student);
         }
-        public string Options()
+        public ViewResult Options()
         {
-            return "Familiarize yourself with the site. This will be your primary student portal.";
+            Student student3 = new Student
+            {
+                Name = "Damon",
+                Class = "Home Economics",
+                Grade = 76
+            };
+
+            return View(student3);
         }
     }
 }
